@@ -1,0 +1,37 @@
+{
+    "success": true,
+    "data": {
+        "topicList": [{
+            "id": 1,
+            "title": "社会热点"
+        }],
+        "articleList": [{
+            "id": 1,
+            "imgurl":"https://upload-images.jianshu.io/upload_images/12594401-415325ebe5aa374c?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+            "title": "4款良心黑科技APP，没多少人知道，还请大家低调收藏",
+            "desc": "1、口袋 口袋是一款聚合性APP，功能非常的全面实用，并且是完全免费的那种。里面提供的工具包括管理各类型文件、查询天气、简单计算、二维码扫描与生..."
+        },
+        {
+            "id": 2,
+            "imgurl":"//https://upload-images.jianshu.io/upload_images/10358181-69121a1257d99e02.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240",
+            "title": "《行动派手帐指南》｜想做出有颜又有料的手帐，需要解锁哪些技能点",
+            "desc": "一直在写手帐，也一直关注了“行动派”和“手帐研究室”的公众号，所以听说手帐研究室编写了这本《行动派手帐指南》，就毫不犹豫地第一时间抱回了家。 近..."        
+        }],
+        "recommendImg": [{
+            "id": 1,
+            "url": "http://cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+        },
+        {
+            "id":2,
+            "url":"http://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+        },
+        {
+            "id":3,
+            "url":"http://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+        },
+        {
+            "id":4,
+            "url":"http://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+        }]
+    }
+}
